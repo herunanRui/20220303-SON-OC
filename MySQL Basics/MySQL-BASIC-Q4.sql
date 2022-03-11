@@ -1,1 +1,0 @@
-select OrderID, OrderDate, ShippedDate, CustomerID, Freight from orders order by Freight;

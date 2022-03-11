@@ -1,1 +1,0 @@
-select * from categories where CategoryID= 8;
